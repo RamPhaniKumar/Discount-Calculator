@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DiscountCalculatorUnitTest/obj
+/DiscountCalculatorUnitTest/bin
+/DiscountCalculatorAPI/bin/Debug/netcoreapp3.1
+/DiscountCalculatorAPI/obj
